@@ -1,0 +1,24 @@
+{
+    "InternalPDFViewer": {
+        "Embedded": true,
+        "File": "../resume_old/resume/resume-dickwyn.pdf"
+    },
+    "Session": {
+        "Bookmarks": [
+        ],
+        "CurrentFile": "../resume_old/resume/resume-dickwyn.tex",
+        "FileVersion": 1,
+        "Files": [
+            {
+                "Col": 12,
+                "EditorGroup": 0,
+                "FileName": "../resume_old/resume/resume-dickwyn.tex",
+                "FirstLine": 299,
+                "FoldedLines": "",
+                "Line": 321
+            }
+        ],
+        "MasterFile": "",
+        "VerticalSplit": true
+    }
+}
