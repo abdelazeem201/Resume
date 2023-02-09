@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{Signal Integrity}{3}{0}{1}
+\beamer@sectionintoc {2}{Crosstalk}{5}{0}{2}
+\beamer@sectionintoc {3}{Crosstalk Noise and Crosstalk Delay – Effects of Crosstalk}{11}{0}{3}
+\beamer@sectionintoc {4}{Crosstalk-Induced Delay}{18}{0}{4}
+\beamer@sectionintoc {5}{Crosstalk prevention techniques}{25}{0}{5}
