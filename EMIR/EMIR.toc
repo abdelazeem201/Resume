@@ -1,0 +1,3 @@
+\beamer@sectionintoc {1}{Voltage (IR) Drop and Ground Bounce}{3}{0}{1}
+\beamer@sectionintoc {2}{Electromigration}{17}{0}{2}
+\beamer@sectionintoc {3}{Other related Issues}{26}{0}{3}
