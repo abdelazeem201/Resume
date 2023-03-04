@@ -1,0 +1,45 @@
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{VLSI Design Cycle}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{What is Hardware Design ?}{6}{0}{1}
+\beamer@subsectionintoc {1}{3}{Trade-offs in Design}{8}{0}{1}
+\beamer@subsectionintoc {1}{4}{Different designs, different requirements}{11}{0}{1}
+\beamer@subsectionintoc {1}{5}{When to use use ASICs}{12}{0}{1}
+\beamer@sectionintoc {2}{Overall Design Flow}{13}{0}{2}
+\beamer@subsectionintoc {2}{1}{Overall Design Flow}{14}{0}{2}
+\beamer@subsectionintoc {2}{2}{Design Flow}{15}{0}{2}
+\beamer@subsectionintoc {2}{3}{Back End or Physical Design}{16}{0}{2}
+\beamer@sectionintoc {3}{First steps to design}{18}{0}{3}
+\beamer@subsectionintoc {3}{1}{What Is a Specification}{19}{0}{3}
+\beamer@subsectionintoc {3}{2}{Is it possible to design the ASIC?}{21}{0}{3}
+\beamer@subsectionintoc {3}{3}{Microarchitecture}{22}{0}{3}
+\beamer@subsectionintoc {3}{4}{Architectural transformations}{27}{0}{3}
+\beamer@sectionintoc {4}{Front-end}{34}{0}{4}
+\beamer@subsectionintoc {4}{1}{Modelling your design}{35}{0}{4}
+\beamer@subsectionintoc {4}{2}{Describing hardware}{37}{0}{4}
+\beamer@subsectionintoc {4}{3}{Simulating your Design}{38}{0}{4}
+\beamer@subsectionintoc {4}{4}{Understanding testbenches}{39}{0}{4}
+\beamer@subsectionintoc {4}{5}{Verification}{40}{0}{4}
+\beamer@subsectionintoc {4}{6}{Logic Synthesis}{41}{0}{4}
+\beamer@subsectionintoc {4}{7}{Standard Cell Libraries}{51}{0}{4}
+\beamer@sectionintoc {5}{Back-end Design}{54}{0}{5}
+\beamer@subsectionintoc {5}{1}{Netlist to Chip}{55}{0}{5}
+\beamer@subsectionintoc {5}{2}{Floorplanning}{56}{0}{5}
+\beamer@subsectionintoc {5}{3}{Power Planning}{60}{0}{5}
+\beamer@subsectionintoc {5}{4}{Placement}{61}{0}{5}
+\beamer@subsectionintoc {5}{5}{Clock Tree Synthesis}{63}{0}{5}
+\beamer@subsectionintoc {5}{6}{Routing}{72}{0}{5}
+\beamer@subsectionintoc {5}{7}{What Is Extraction?}{74}{0}{5}
+\beamer@subsectionintoc {5}{8}{Optimization}{76}{0}{5}
+\beamer@sectionintoc {6}{Physical Verification?}{77}{0}{6}
+\beamer@subsectionintoc {6}{1}{Physical Verification?}{78}{0}{6}
+\beamer@subsectionintoc {6}{2}{DRC}{79}{0}{6}
+\beamer@subsectionintoc {6}{3}{LVS}{81}{0}{6}
+\beamer@subsectionintoc {6}{4}{EMIR}{83}{0}{6}
+\beamer@subsectionintoc {6}{5}{Static Time Analysis}{84}{0}{6}
+\beamer@subsectionintoc {6}{6}{Formal Verification}{85}{0}{6}
+\beamer@subsectionintoc {6}{7}{Tape-out}{87}{0}{6}
+\beamer@sectionintoc {7}{Final Words}{88}{0}{7}
+\beamer@subsectionintoc {7}{1}{Your own chip}{89}{0}{7}
+\beamer@subsectionintoc {7}{2}{Testing}{90}{0}{7}
+\beamer@subsectionintoc {7}{3}{Summary of the Design Flow}{92}{0}{7}
+\beamer@subsectionintoc {7}{4}{A good looking chip will work good}{93}{0}{7}
