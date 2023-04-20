@@ -1,0 +1,155 @@
+
+\documentclass{ExpressiveResume}
+%\usepackage[margin=0.1cm]{geometry} % set margins of document; not necessary
+\usepackage{enumitem,multicol}
+\setlength{\multicolsep}{0.5pt plus 2.0pt minus 1.5pt}
+\usepackage{xcolor} % just for demo; not necessary
+% ----- Resume -----
+\begin{document}
+	
+	% ----- Name + Contact Information -----
+	\resumeheader[
+	firstname=Ahmed,
+	%middleinitial=N,
+	lastname=Abdelazeem,
+	email=a.abdelazeem201@gmail.com,
+	phone=+20- 102-876-8232,
+	linkedin=ahmed-abdelazeem,
+	github=abdelazeem201,
+	%city=Town,
+	%state=State,
+	qrcode=./Abdelazeem.png,
+	fixobjectivespacing=true
+	]
+	
+	\objective{Digital Design Engineering graduate with 2 years of work experience at various internships \\
+		seeking opportunities to enhance my knowledge in Digital Design, SoC and ASIC Back-end flow.}
+	
+	% ----- Education -----
+	\section{Education}
+	
+	\experience{Bachelor of Engineering}{Electronics and communications Engineering}{May 2021}{Aug 2016}{
+		\hfill GPA: 3.20 \newline
+		Faculty of Engineering, \newline
+		Zagazig University, Zagazig, Egypt. \newline
+	}
+	
+	% ----- Work Experience -----
+	\section{Work Experience}
+	
+	\experience{Military Conscription}{FPGA Design Engineer}{Dec 2022}{Dec 2021}{
+		\achievement{
+			
+			Developed a FPGA peripheral interfaces (UART, I2C, SPI, storage, high speed serial I/F’s).
+			
+		}
+		\achievement{
+			
+			Designed and implemented high-performance DSP algorithms on FPGAs for use in radar applications.
+			
+		}
+	}
+	
+		\experience{Summer Intern @ICpedia}{ASIC Physical Design}{Sep 2022}{Jul 2022}{
+		\achievement{
+			
+			Responsible for Physical Implementation of an IP - starting from Netlist to GDS, including floorplanning,
+			Placement, Clock design, Optimization, Timing closure, DRC/LVS, LEC, MVRC, and sign-off.
+			
+		}
+	}
+
+		\experience{Summer Intern @Synopsys}{ASIC Physical Design}{Apr 2021}{Apr 2021}{
+	\achievement{
+		
+		Responsible for the entire PNR flow for the ORCA TOP chip using \tech {DC and IC Compiler} using ”SAED
+		32/28nm PDK” with 50K - 60K gates and operates at 60MHz frequency.
+		
+	}
+}
+
+		\experience{Winter Camp @Cadence}{ASIC Physical Design}{Feb 2021}{Jan 2021}{
+	\achievement{
+		
+		Synthesized, implemented and verified a DTMF receiver Chip using \tech {Genus and Innovus} using Artisan 180
+		nanometer process technology with 6 layers of metal.
+		
+	}
+	\achievement{
+	
+	The DTMF design contains almost 6,000 instances, 57 IO pads, and about 6,274 nets.
+	
+}
+}
+
+		\experience{Winter Camp @Arm Ltd}{ASIC Design}{Dec 2020}{Dec 2020}{
+	\achievement{
+		
+	5-Day hands-on workshop: to develop Arm Cortex-M0 based SoCs, from creating high-level functional
+	specifications to design, and implementation on FPGA platforms using standard HDL \& SW.
+		
+	}
+}
+
+		\experience{Summer Intern @One Lab}{ASIC Physical Design}{Nov 2020}{Aug 2020}{
+	\achievement{
+		
+		RTL to GDSII: going through digital design flow starting from Constraint, Synthesis, PnR steps, Timing,
+		Sign off, and Physical verification.
+		
+	}
+}
+	% ----- Technical Projects -----
+	\section{Technical Projects}
+	
+	\experience{Microcontrollers with Graphics Display}{Graduation Project}{Jul 2021}{Sep 2020}{
+		\achievement{
+			
+		PnR execution for Digital Top block and also to IP harden the CORTEX-M0 sub chip. from netlist to GDS
+		which included floorplanning, clock and power distribution timing closure, physical and electrical verification.
+			
+		}
+	}
+	
+\experience{MSDAP Chip Design}{Freelance Project}{Mar 2021}{Jan 2021}{
+		\achievement{
+			
+			Developed Verilog RTL code for high speed, low power MSDAP- ASIC chip using Vivado and verified the system functionality in C. aslo
+			synthesized the design in \tech {DC} \&
+			developed Final Physical Design using the \tech {IC Compiler}, Performed
+			Parasitic (RC) extraction, Static Timing Analysis (STA).
+			
+		}
+	}
+
+\experience{Design and Implementation of UART}{Personal Project}{Nov 2020}{Sep 2020}{
+	\achievement{
+		
+		Complete the Digital Design Flow from the RTL2GDS using 45nm Free PDK. synthesized the verilog code
+		using DC Compiler, and aslo did the entire PnR flow using Synopsys IC Compiler.
+		
+	}
+}
+
+\experience{Design and Implementation of 32 – bit RISC Processor}{Personal Project}{Dec 2019}{Oct 2019}{
+	\achievement{
+		
+		Developed the behavioral model of a 32-bit microprocessor using Verilog on Altera Cyclone IV FPGA, aslo synthesized and implemented using DC \& IC Compiler.
+	}
+}
+
+\section{Technical Skills}
+	\begin{multicols}{2}
+	\noindent
+	\begin{description}
+		\item[Languages:] C, Python, Matlab, TCL scripting
+		\item[Logic Synthesis:] DC(synopsys), Genus(Cadence)
+		\item[Signoff tools:] StarRC, PrimeTime, Calibre, Virtuoso
+		\item[Physical Verification:] LVS, DRC, ERC, Density rules
+		\item[HDL:] Verilog, SystemVerilog, VHDL
+		\item[Place \& Route:] ICC(Synopsys), Innovus(Cadence)
+		\item[FE Tools:] Vivado, VCS, QuestaSim, HSpice
+		\item[Technologies:] Linux, GitHub, Git, \LaTeX\
+	\end{description}
+\end{multicols}	
+\end{document}
