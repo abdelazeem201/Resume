@@ -1,0 +1,357 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.2)  13 MAY 2023 15:24
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./Placement.tex
+(Placement.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-09-28>
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer.cls
+Document Class: beamer 2022/09/13 v3.68 A class for typesetting presentations
+
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasem
+odes.sty
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.
+sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count185
+)
+\beamer@tempbox=\box51
+\beamer@tempcount=\count186
+\c@beamerpauses=\count187
+
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbased
+ecode.sty
+\beamer@slideinframe=\count188
+\beamer@minimum=\count189
+\beamer@decode@box=\box52
+)
+\beamer@commentbox=\box53
+\beamer@modecount=\count190
+)
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+\headdp=\dimen138
+\footheight=\dimen139
+\sidebarheight=\dimen140
+\beamer@tempdim=\dimen141
+\beamer@finalheight=\dimen142
+\beamer@animht=\dimen143
+\beamer@animdp=\dimen144
+\beamer@animwd=\dimen145
+\beamer@leftmargin=\dimen146
+\beamer@rightmargin=\dimen147
+\beamer@leftsidebar=\dimen148
+\beamer@rightsidebar=\dimen149
+\beamer@boxsize=\dimen150
+\beamer@vboxoffset=\dimen151
+\beamer@descdefault=\dimen152
+\beamer@descriptionwidth=\dimen153
+\beamer@lastskip=\skip47
+\beamer@areabox=\box54
+\beamer@animcurrent=\box55
+\beamer@animshowbox=\box56
+\beamer@sectionbox=\box57
+\beamer@logobox=\box58
+\beamer@linebox=\box59
+\beamer@sectioncount=\count191
+\beamer@subsubsectionmax=\count192
+\beamer@subsectionmax=\count193
+\beamer@sectionmax=\count194
+\beamer@totalheads=\count195
+\beamer@headcounter=\count196
+\beamer@partstartpage=\count197
+\beamer@sectionstartpage=\count198
+\beamer@subsectionstartpage=\count199
+\beamer@animationtempa=\count266
+\beamer@animationtempb=\count267
+\beamer@xpos=\count268
+\beamer@ypos=\count269
+\beamer@ypos@offset=\count270
+\beamer@showpartnumber=\count271
+\beamer@currentsubsection=\count272
+\beamer@coveringdepth=\count273
+\beamer@sectionadjust=\count274
+\beamer@toclastsection=\count275
+\beamer@tocsectionnumber=\count276
+
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseo
+ptions.sty
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.st
+y
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+))
+\beamer@paperwidth=\skip48
+\beamer@paperheight=\skip49
+
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.
+sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count277
+\Gm@cntv=\count278
+\c@Gm@tempcnt=\count279
+\Gm@bindingoffset=\dimen154
+\Gm@wd@mp=\dimen155
+\Gm@odd@mp=\dimen156
+\Gm@even@mp=\dimen157
+\Gm@layoutwidth=\dimen158
+\Gm@layoutheight=\dimen159
+\Gm@layouthoffset=\dimen160
+\Gm@layoutvoffset=\dimen161
+\Gm@dimlist=\toks17
+
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.
+cfg))
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.s
+ty
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfr
+cs.sty
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pg
+futil-common.tex
+\pgfutil@everybye=\toks18
+\pgfutil@tempdima=\dimen162
+\pgfutil@tempdimb=\dimen163
+
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pg
+futil-common-lists.tex))
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pg
+futil-latex.def
+\pgfutil@abb=\box60
+)
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pg
+frcs.code.tex
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision
+.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfk
+eys.sty
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pg
+fkeys.code.tex
+\pgfkeys@pathtoks=\toks19
+\pgfkeys@temptoks=\toks20
+
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pg
+fkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks21
+)))
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath
+.code.tex
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath
+calc.code.tex
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath
+util.code.tex
+\pgf@x=\dimen164
+\pgf@xa=\dimen165
+\pgf@xb=\dimen166
+\pgf@xc=\dimen167
+\pgf@y=\dimen168
+\pgf@ya=\dimen169
+\pgf@yb=\dimen170
+\pgf@yc=\dimen171
+\c@pgf@counta=\count280
+\c@pgf@countb=\count281
+\c@pgf@countc=\count282
+\c@pgf@countd=\count283
+)
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath
+parser.code.tex
+\pgfmath@dimen=\dimen172
+\pgfmath@count=\count284
+\pgfmath@box=\box61
+\pgfmath@toks=\toks22
+\pgfmath@stack@operand=\toks23
+\pgfmath@stack@operation=\toks24
+)
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath
+functions.code.tex
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath
+functions.basic.code.tex)
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath
+functions.trigonometric.code.tex)
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath
+functions.random.code.tex)
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath
+functions.comparison.code.tex)
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath
+functions.base.code.tex)
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath
+functions.round.code.tex)
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath
+functions.misc.code.tex)
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath
+functions.integerarithmetics.code.tex)))
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath
+float.code.tex
+\c@pgfmathroundto@lastzeros=\count285
+)))
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
+File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf
+core.sty
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.
+sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.
+sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graph
+ics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdfte
+x.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+\stockwidth=\dimen173
+\stockheight=\dimen174
+))
+\Gin@req@height=\dimen175
+\Gin@req@width=\dimen176
+)
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pg
+fsys.sty
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\
+pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pg
+fkeys.code.tex)
+\pgf@x=\dimen177
+\pgf@y=\dimen178
+\pgf@xa=\dimen179
+\pgf@ya=\dimen180
+\pgf@xb=\dimen181
+\pgf@yb=\dimen182
+\pgf@xc=\dimen183
+\pgf@yc=\dimen184
+\pgf@xd=\dimen185
+\pgf@yd=\dimen186
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count286
+\c@pgf@countb=\count287
+\c@pgf@countc=\count288
+\c@pgf@countd=\count289
+\t@pgf@toka=\toks25
+\t@pgf@tokb=\toks26
+\t@pgf@tokc=\toks27
+\pgf@sys@id@count=\count290
+
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\
+pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\
+pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\
+pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\
+pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count291
+\pgfsyssoftpath@bigbuffer@items=\count292
+)
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\
+pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color
+.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor
+.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\p
+gfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath
+.code.tex)
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.
+code.tex)
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\p
+gfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen187
+\pgf@picmaxx=\dimen188
+\pgf@picminy=\dimen189
+\pgf@picmaxy=\dimen190
+\pgf@pathminx=\dimen191
+\pgf@pathmaxx=\dimen192
+\pgf@pathminy=\dimen193
+\pgf@pathmaxy=\dimen194
+\pgf@xx=\dimen195
+\pgf@xy=\dimen196
+\pgf@yx=\dimen197
+\pgf@yy=\dimen198
+\pgf@zx=\dimen199
+\pgf@zy=\dimen256
+)
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\p
+gfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen257
+\pgf@path@lasty=\dimen258
+)
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\p
+gfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen259
+\pgf@shorten@start@additional=\dimen260
+)
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\p
+gfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box62
+\pgf@hbox=\box63
+\pgf@layerbox@main=\box64
+\pgf@picture@serial@count=\count293
+)
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\p
+gfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen261
+)
+(C:\Users\Abdelazeem\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\p
+gfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen262
+\pgf@pt@y=\dimen263
+\pgf@pt@temp=\dimen264
+)
+(C:\Users\Abdelazeem\AppData\Local\Prog
