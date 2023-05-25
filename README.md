@@ -1,6 +1,7 @@
 # Resume
-A one-page, two asymmetric column resume template in LaTeX that caters particularly to an undergraduate ECE/CSE student.
+A one-page, one column resume template in LaTeX that caters particularly to an undergraduate ECE/CSE student.
 
 # Preview
+[Abdelazeem_resume](https://github.com/abdelazeem201/Resume/blob/main/cover%20letter/Abdelazeem.pdf)
 
-![image](https://user-images.githubusercontent.com/58098260/161099023-7eee5e08-32cf-49b5-b6ee-0a4cfb94017a.png)
+![Abdelazeem_resume](https://github.com/abdelazeem201/Resume/assets/58098260/72566e47-8acb-4c6d-befe-94544db49edb)
