@@ -1,0 +1,23 @@
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Routing}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{Routing Problem}{5}{0}{1}
+\beamer@sectionintoc {2}{Routing Operations}{8}{0}{2}
+\beamer@subsectionintoc {2}{1}{Routing Operations}{9}{0}{2}
+\beamer@subsectionintoc {2}{2}{Global Route}{10}{0}{2}
+\beamer@subsectionintoc {2}{3}{Track Assignment}{13}{0}{2}
+\beamer@subsectionintoc {2}{4}{Detail Routing}{14}{0}{2}
+\beamer@subsectionintoc {2}{5}{Search\&Repair}{15}{0}{2}
+\beamer@sectionintoc {3}{Crosstalk}{17}{0}{3}
+\beamer@subsectionintoc {3}{1}{Crosstalk}{18}{0}{3}
+\beamer@sectionintoc {4}{Engineering change order (ECO) }{21}{0}{4}
+\beamer@subsectionintoc {4}{1}{Engineering change order (ECO) }{22}{0}{4}
+\beamer@subsectionintoc {4}{2}{Functional ECO Flows}{24}{0}{4}
+\beamer@sectionintoc {5}{Chip Finishing and DFM }{25}{0}{5}
+\beamer@subsectionintoc {5}{1}{Chip Finishing Flow}{26}{0}{5}
+\beamer@subsectionintoc {5}{2}{Antenna Fixing}{29}{0}{5}
+\beamer@subsectionintoc {5}{3}{Redundant Via Insertion}{32}{0}{5}
+\beamer@subsectionintoc {5}{4}{Wire Spreading}{34}{0}{5}
+\beamer@subsectionintoc {5}{5}{Filler Cell Insertion}{35}{0}{5}
+\beamer@subsectionintoc {5}{6}{Metal Fill Insertion}{36}{0}{5}
+\beamer@subsectionintoc {5}{7}{Metal Slotting}{38}{0}{5}
+\beamer@subsectionintoc {5}{8}{Final Validation}{41}{0}{5}
