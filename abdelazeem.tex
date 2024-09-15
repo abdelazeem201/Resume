@@ -1,0 +1,264 @@
+%------------------------
+% Resume Template
+% Author : Ahmed Abdelazeem
+% Github : https://github.com/abdelazeem201
+% License : MIT
+%------------------------
+
+\documentclass[a4paper,20pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[utf8x]{inputenc}
+\usepackage{multicol}
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.530in}
+\addtolength{\evensidemargin}{-0.375in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.45in}
+\addtolength{\textheight}{1in}
+
+\urlstyle{rm}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+	\vspace{-10pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-6pt}]
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[2]{
+	\item\small{
+		\textbf{#1}{: #2 \vspace{-2pt}}
+	}
+}
+
+\newcommand{\resumeItemWithoutTitle}[1]{
+	\item\small{
+		{\vspace{-2pt}}
+	}
+}
+
+\newcommand{\resumeSubheading}[4]{
+	\vspace{-1pt}\item
+	\begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+		\textbf{#1} & #2 \\
+		\textit{#3} & \textit{#4} \\
+	\end{tabular*}\vspace{-5pt}
+}
+
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-3pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+	\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+	\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-----------------------------
+%%%%%%  CV STARTS HERE  %%%%%%
+
+\begin{document}
+	
+	%----------HEADING-----------------
+	\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+		\textbf{{\LARGE Ahmed Abdelazeem}} & Email: \href{mailto:a.abdelazeem201@gmail.com}{a.abdelazeem201@gmail.com}\\
+		\href{https://www.linkedin.com/in/ahmed-abdelazeem/}{LinkedIn: ahmed-abdelazeem} & Mobile:~~~+966-56-457-0497 \\
+		\href{https://github.com/abdelazeem201}{Github: ~~abdelazeem201} \\
+	\end{tabular*}
+	
+	%-----------EDUCATION-----------------
+	\section{~~Education}
+	\resumeSubHeadingListStart
+	\resumeSubheading
+	{Zagazig University, Faculty of Engineering}{Zagazig, Egypt}
+	{Bachelor of Electronics and Communications Engineering;  GPA: 3.2}{July 2016 - June 2021}
+	{\scriptsize \textit{ \footnotesize{\newline{}\textbf{Courses:} Electric Circuits, Electronic Devices and Circuits, Logic Design, Signal and Systems, CMOS Integrated Circuits, Computer Organization and Architecture, VLSI Modeling and Design}}}
+	\resumeSubHeadingListEnd
+	
+    \section{Skills Summary}
+\begin{multicols}{2}
+	\resumeSubHeadingListStart
+	\resumeSubItem{Languages}{C, Python, MATLAB, TCL}
+	\resumeSubItem{HDL(RTL)}{Verilog, VHDL}
+	\resumeSubItem{Logic Synthesis}{DC(Synopsys), Genus(Cadence)}
+	\resumeSubItem{Place \& Route}{~ICC (II)(Synopsys), Innovus(Cadence)}
+	\resumeSubItem{Signoff tools}{StarRC, PrimeTime, Calibre, Virtuoso}
+	\resumeSubItem{Other Tools}{~HSpice, Vivado, VCS, QuestaSim.}
+	\resumeSubItem{Physical Verification}{LVS, DRC, Density rules}
+	\resumeSubItem{Technologies}{Linux, GitHub, Git, \LaTeX}
+	\resumeSubHeadingListEnd
+\end{multicols}
+	
+	\vspace{-5pt}
+	
+	\section{Experience}
+	\resumeSubHeadingListStart
+	
+	\resumeSubheading{TRYSL TECH}{KAUST, Saudi Arabia}
+	{ASIC Design Engineer}{Jan 2023 - Present}
+	\resumeItemListStart
+		\resumeItem{Responsible for Physical Implementation of an IP and Chip Level using 65/45/28/14nm}
+	{ starting from Netlist to GDS, including floorplanning, Placement, Clock design, Optimization, Routing, Parasitic Extraction, Static Timing Analysis, IR drop analysis, Physical Verification, and Sign-Off.}
+	\resumeItem{Work closely with RTL designers}
+	{to debug and root-cause Physical Implementation issues related to design, tools, etc. and arrive at a feasible solution through the augmentation of input and design collateral.}
+	\resumeItem{Experience with Synopsys design tools, flows and methodology}
+	{using VCS, Design Compiler, Formality, ICC/ICC2, PrimeTime, PrimePower, StarRC, and ICV, and ICVWB.}
+	\resumeItemListEnd
+	
+		\resumeSubheading{Center of Nanoelectronics and Devices (CND) @ AUC}{Online}
+	{ASIC Design Engineer}{Feb 2024 - May 2024}
+	\resumeItemListStart
+	\resumeItem{Mentored and Guide a core of 5+ TAs for CDN program.}
+
+	\resumeItem{ASIC Design flow}
+	{Guided (TAs) in overseeing the entire ASIC project lifecycle from RTL to GDS, encompassing comprehensive verification, physical design, and timing closure using Synopsys suite tools such as VCS, DC, FM, ICC2, PT/PP, StarRC, and ICV.}
+	\resumeItemListEnd
+	
+	\resumeSubheading{National Telecommunicarion Institute(NTI)}{New Administrative Capital}
+	{ASIC Design Engineer}{Jun 2023 - Sep 2023}
+	\resumeItemListStart
+	\resumeItem{Mentored and guided 20 students through complete ASIC Design Program}
+	{Developed and delivered tailored instructional material, including presentation slides and hands-on lab exercises, utilizing industry-standard Synopsys tools.}
+	\resumeItem{Equipped students with expertise in ASIC Physical Design flow}
+	{including Netlist generation, Floorplanning, Placement, CTS, Routing, and signoff stages (LVS, DRC, Timing, Power), fostering practical skills for success in the semiconductor industry.}
+	\resumeItemListEnd
+	
+	\resumeSubheading{Summer Intern @ICpedia}{Remote}
+	{ASIC Physical Design}{Jul 2022 - Sep 2022}
+	\resumeItemListStart
+	\resumeItem{Responsible for Physical Implementation of an IP-}
+	{starting from Netlist to GDS, including floorplanning,
+		Placement, Clock design, Optimization, Timing closure, DRC/LVS, LEC, ERC, and sign-off.}
+	\resumeItemListEnd
+	
+	\resumeSubheading{Military Conscription, Benha Electronics Co.}{Benha}
+	{FPGA Design Engineer}{Dec 2021 - Dec 2022}
+	\resumeItemListStart
+	\resumeItem{Design real-time digital signal processing systems}
+	{Been a part in designing, verification for FPGA development and quality checking large-scale complicated projects of the Air Defense Forces Research and Development department.}
+	\resumeItem{Analyze cost and risk factors involved in system development activities}
+	{Contacted suppliers and compared pricings, followed strict deadlines.}
+	\resumeItemListEnd
+
+	
+	\resumeSubheading{Summer Intern @Synopsys}{Remote}
+	{ASIC Physical Design Engineer}{Apr 2021 - Apr 2021}
+	\resumeItemListStart
+	\resumeItem{Design Compiler}
+	{Had basic training in DC Shell and also had a beginner level session on the Synthesis flow.}
+	\resumeItem{IC Compiler}
+	{Did the entire PNR flow for the ORCA TOP chip using "SAED 32/28nm PDK" with 50K - 60K gates and operates at 60MHz frequency. and also have worked on PrimeTime for learning the basics of STA and to understand how to read the timing reports and how to clear timing violations.}
+	\resumeItemListEnd
+	
+	\vspace{-5pt}
+	\resumeSubheading
+	{Winter Camp @Cadence.}{Remote}
+	{ASIC Physical Design Engineer}{Jan 2021 - Feb 2021}
+	\resumeItemListStart
+	\resumeItem{1-Day hands-on workshop}
+	{to learn the basic concepts of static timing analysis.}
+	\resumeItem{2-Days hands-on workshop}
+	{to learn and run complete synthesis flow on a design with the given specifications and optimize it for area, timing, and power with Cadence Genus Synthesis.}
+	\resumeItem{3-Days hands-on workshop}{to learn how to use the Innovus Implementation System to perform placement, clock tree synthesis, and routing.}
+	\resumeItemListEnd
+	\vspace{-5pt}
+	\resumeSubheading
+	{Winter Camp @Arm Ltd.}{Remote}
+	{ASIC Design Engineer}{Dec 2020 - Dec 2020}
+	\resumeItemListStart
+	\resumeItem{5-Day hands-on workshop}
+	{to develop Arm Cortex-M0 based SoCs, from creating high-level functional specifications to design, implementation, and testing on FPGA platforms using standard hardware description and software programming languages.}
+	\resumeItemListEnd
+	\resumeSubheading {Summer Intern @One Lab.}{Cairo}
+	{ASIC Design Engineer}{Aug 2020 - Nov 2020}
+	\resumeItemListStart
+	\resumeItem{RTL to GDSII}
+	{going through digital design flow starting from Constraint, Synthesis, PnR steps, Timing, Sign off, and Physical verification. Making sure to meet timing, power and physical specifications until the design is clean to be fabricated.}
+	\resumeItemListEnd
+	\resumeSubHeadingListEnd
+	
+	%-----------PROJECTS-----------------
+	\vspace{-5pt}
+	\section{Projects}
+	\resumeSubHeadingListStart
+	\resumeSubItem{High-Speed Microcontroller for Display intensive Application, GP}{I was responsible for the complete physical design of 180nm Digital Top block and also to IP harden the CORTEX-M0 sub chip. Did the entire PnR flow using Cadence Encounter for the same and also the STA using PrimeTime and physical verification for both the hardened IP and Digital Top block.} \hspace{13cm} {Sep 2020 - July 2021}
+	\vspace{2pt}
+	\resumeSubItem{Mini Stereo Digital Audio Processor (MSDAP) Chip Design}{Developed Verilog RTL code for high speed, low power MSDAP- ASIC chip using Xilinx ISE consisting of a Controller, ALU, Memories and serial communication unit, and verified the system functionality in C. aslo I synthesized the design in Design Compiler \& Performed pre-layout simulation in Modelsim. And also developed Final Physical Design using the IC Compiler, Performed Clock Tree Synthesis, Optimization, Parasitic (RC) extraction, Static Timing Analysis (STA).} \hspace{7.3cm}{Jan 2021 - Mar2021}
+	\vspace{2pt}
+	\resumeSubItem{Implementation of UART Protocol in 6-stage FSM}{Complete the Digital Design Flow from the RTL2GDS using 45nm Free PDK. synthesized the verilog code using DC Compiler, and aslo did the entire PnR flow using Synopsys IC Compiler.}
+	\vspace{2pt}
+	\resumeSubItem{Implementation of 16-bits MIPS Processor with 400 MHZ Frequency}{Complete the Digital Design Flow from the RTL2GDS using 45nm Free PDk, with 10 metal layers. Synthesized the verilog code using DC Compiler, and aslo did the entire PnR flow using Synopsys IC Compiler. Performed Clock Tree Synthesis, Optimization, Parasitic (RC) extraction using PrimeTime, Static Timing Analysis (STA).} \hspace{7.8cm}{Jan 2021 - Mar2021}
+	\vspace{2pt}
+	\resumeSubItem{SoC Implementation of OpenMSP430 Microcontroller}{Complete the physical design of low power microcontroller based on an openMSP430 architecture using 90nm SAED PDK.}\hspace{4.9cm}{Dec 2021 - Jan 2022}
+	\resumeSubHeadingListEnd
+	
+	\vspace{-5pt}
+	
+	\section{COURSES}
+	\begin{description}[font=$\bullet$]
+		\item {\textbf{C Programming} }\null\hfill{ Udemy,2017}
+		\vspace{-5pt}
+		\item {\textbf{Hardware Modeling using Verilog by Prof. Indranil Sengupta}}\null\hfill{YouTube,2018 }
+		\vspace{-5pt}
+		\item {\textbf{Introduction to FPGA Design for Embedded Systems}}\null\hfill {Coursera,2018}
+		\vspace{-5pt}
+		\item {\textbf{CMOS Analog IC Design}}\null\hfill{Mahara-Tech ,2019}
+		\vspace{-5pt}
+		\item {\textbf{VLSI CAD Part II: Layout}}\null\hfill{Coursera,2019}
+		\vspace{-5pt}
+		\item {\textbf{Python and Data Structures}}\null\hfill{Coursera,2020}
+		\vspace{-5pt}
+		\item {\textbf{Digital VLSI Design (RTL2GDS) by Prof. Adam Teman.}}\null\hfill{YouTube,2020}
+		\vspace{-5pt}
+		\item {\textbf{VLSI Physical Design by Prof. Indranil Sengupta}}\null\hfill{Udemy,2020}
+		\vspace{-5pt}
+		\item {\textbf{MPU, MCU, SoC and Embedded Systems}}\null\hfill{YouTube}
+		\vspace{-5pt}
+	\end{description}
+	
+	\vspace{-5pt}
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%-----------Awards-----------------
+	%\section{Honors and Awards}
+	%\begin{description}[font=$\bullet$]
+	%\item {Awarded title of Intel Software Innovator - May, 2019}
+	%\vspace{-5pt}
+	%\item {Second Runner's Up at TCS EngiNx Engineering Project Innovation Content %- September, 2018 }
+	%\vspace{-5pt}
+	%\item {Runner's Up at Facebook Developers Circle Hackathon - August, 2017}
+	
+	%\end{description}
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\section{Volunteer Experience}
+	\resumeSubHeadingListStart
+	\resumeSubheading
+	{Former Project Management for Enactus ZU,}{Zagazig, Egypt}
+	{Prepare clear and concise reports, proposals, and other written materials of a technical nature.}{Jan 2019 - Feb 2020}
+	\vspace{5pt}
+	% \vspace{10pt}\textbf{\large{Community Experience}}
+	\resumeSubheading
+	{Former PR director for Hult Prize Foundation, ZU.}{Zagazig, Egypt}
+	{Negotiating and receiving governmental and non-governmental grants up to 40,000 EGP.}{Jan 2018 - Sep 2018}
+	\resumeSubHeadingListEnd
+	
+\end{document}
